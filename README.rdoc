@@ -1,4 +1,4 @@
-Ruby-Exercises
+==Ruby-Exercises
 ==============
 This Repository contains three Ruby apps that I completed in my second week of MakerSquare[link:http://www.themakersquare.com].
 
